@@ -33,6 +33,14 @@
         color: white;
     }
     
+    #bio p {
+        line-height: 1.5em;
+    }
+    
+    p {
+        font-size: 1em;
+    }
+    
     h1 {
         text-align: center;
     }
